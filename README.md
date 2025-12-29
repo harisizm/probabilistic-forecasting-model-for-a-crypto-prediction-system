@@ -36,4 +36,3 @@ This will generate a `predictions.json` file in the root directory.
 - `main.py`: Entry point. Orchestrates data fetching, modeling, and formatting.
 - `model_engine.py`: Contains the econometrics logic (GARCH fitting and simulation).
 - `data_fetcher.py`: Handles API connectivity and error recovery.
-- `verify_requirements.py`: Utility script to validate output format and constraints.
